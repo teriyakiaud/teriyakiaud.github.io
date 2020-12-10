@@ -1,6 +1,6 @@
 
 <h1>Audrey Tjahjadi</h1>
-![me]()
+![me](audrey%20%photo.jpg)
 
 ## Audrey Tjahjadi
 
