@@ -19,7 +19,7 @@ Outside of the lab, I am a strong proponent of science education to help inform 
 
 ### Education
 
-Master of Science, 2021 (prospective). George Washington University, Washington, DC. 
-Bachelor of Arts, 2014. Boston University, Boston, MA.
+- Master of Science, 2021 (prospective). George Washington University, Washington, DC. 
+- Bachelor of Arts, 2014. Boston University, Boston, MA.
 
 ### Publications and Accomplishments
