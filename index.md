@@ -8,9 +8,14 @@ My interests focus on the evolution of genes involved in metabolism and the evol
 
 ### Outreach
 
-I am a strong proponent of science education to help inform understanding of human evolutionary concepts and advancements in human evolutionary genetics for the general public. To this end, I have been involved in several forms of outreach. 
+Outside of the lab, I am a strong proponent of science education to help inform understanding of human evolutionary concepts and advancements in human evolutionary genetics for the general public. To this end, I have been involved in several forms of outreach including:
+
+- Acting as a visiting reseacher for the *Scientist in In* program at the National Museum of Natural History
+- Cohosting [Evolution's Grad Girls](https://www.youtube.com/channel/UCCBhCOoJCOEm0ahysB7Bxyw), a short webseries on Youtube answering Reddit questions related to evolutionary anthropology
 
 ### CV
+
+[2020 CV](Tjahjadi A - Fall 2020 CV NA.pdf)
 
 ### Education
 
