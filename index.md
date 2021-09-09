@@ -1,10 +1,10 @@
 ## Introduction
 
-I am a 2nd year MS student in the Human Paleobiology Program at George Washington University in Washington, D.C. I have a background in biology and archaeology and am interested in researching human evolution through the study of genetics and genomics. 
+I am a 1st year PhD student in Biological Anthropology at Yale University. I have a background in biology and archaeology and am interested in researching human evolution through the study of genetics and genomics. 
 
 ## Research Interests
 
-My interests focus on the evolution of genes involved in metabolism and the evolution of diet within the human lineage. I am currently working on a Master's thesis examining the evolution of potential functional variation in starch-digesting enzymes in humans and non-human primates. Moving forward, I plan to shift my focus to population genetic and genomic analyses of modern-day populations to examine regional variation in metabolic-related genes, such as the *FADS* gene cluster. Additionally, I am interested in incorporating ecological and demographic history to determine if introgression from archaic hominins played a role in unique haplotypes seen within these genes in the regions of Southeast Asia and Oceania. 
+My interests focus on the evolution of genes involved in metabolism and the evolution of diet within the human lineage. My previous research examined the patterns of functional variation in starch-digesting enzymes in humans and non-human primates. Currently, my research interests focus on population genetics and genomic analyses of modern-day populations to understand adaptive evolution in metabolic-related genes, such as the *FADS* gene cluster. Additionally, I am interested in incorporating ecological and demographic history to determine if introgression from archaic hominins played a role in unique haplotypes seen within populations in the regions of Southeast Asia and Oceania. 
 
 ## Outreach
 
@@ -19,9 +19,11 @@ Outside of the lab, I am a strong proponent of science education to help inform 
 
 ## Education
 
-- Master of Science, 2021 (prospective). George Washington University, Washington, DC. 
+- Master of Science, 2021. George Washington University, Washington, DC. 
 - Bachelor of Arts, 2018. Boston University, Boston, MA.
 
-## Publications and Accomplishments
+## Contact
+
+audrey.tjahjadi@yale.edu
 
 
