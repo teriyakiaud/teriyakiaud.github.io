@@ -1,16 +1,18 @@
 ## Introduction
 
-I am a 1st year PhD student in Biological Anthropology at Yale University. I have a background in biology and archaeology and am interested in researching human evolution through the study of genetics and genomics. 
+I am a 3rd year PhD candidate in Anthropology at Yale University. After receiving a BA in Archaeology and Biology from Boston University, I completed a MS in Human Paleobiology at George Washington University and am currently interested in researching human evolution through the use of genetics and genomics methods. 
 
 ## Research Interests
 
-My interests focus on the evolution of genes involved in metabolism and the evolution of diet within the human lineage. My previous research examined the patterns of functional variation in starch-digesting enzymes in humans and non-human primates. Currently, my research interests focus on population genetics and genomic analyses of modern-day populations to understand adaptive evolution in metabolic-related genes, such as the *FADS* gene cluster. Additionally, I am interested in incorporating ecological and demographic history to determine if introgression from archaic hominins played a role in unique haplotypes seen within populations in the regions of Southeast Asia and Oceania. 
+My research interests focus on the evolution of genes involved in metabolism and the evolution of diet within the human lineage. My previous research examined the patterns of functional variation in starch-digesting enzymes in humans and non-human primates. Currently, my PhD research utilizes population genetics methods to understand adaptive evolution in fat metabolism-related genes, such as the *FADS* gene cluster and the ecological factors and demographic history that have contributed to patterns of genetic variation within modern-day populations in Southeast Asia and Oceania. 
 
 ## Outreach
 
 Outside of the lab, I am a strong proponent of science education to help inform understanding of human evolutionary concepts and advancements in human evolutionary genetics for the general public. To this end, I have been involved in several forms of outreach including:
 
-- Acting as a visiting reseacher for the *Scientist in In* program at the National Museum of Natural History
+- Organizing departmental outreach events with local high school students through Yale Pathways. 
+- Acting as a speaker and current director for Yale Science Communication, a Graduate Student Organization.
+- Acting as a visiting reseacher for the *Scientist in In* program at the National Museum of Natural History (2021)
 - Cohosting [Evolution's Grad Girls](https://www.youtube.com/channel/UCCBhCOoJCOEm0ahysB7Bxyw), a short webseries on Youtube answering Reddit questions related to evolutionary anthropology
 
 ## CV
@@ -24,6 +26,6 @@ Outside of the lab, I am a strong proponent of science education to help inform 
 
 ## Contact
 
-audrey.tjahjadi@yale.edu
+audrey.tjahjadi[@]yale.edu
 
 
