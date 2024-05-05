@@ -17,7 +17,7 @@ Outside of the lab, I am a strong proponent of science education to help inform 
 
 ## CV
 
-[2020 CV](Tjahjadi A - Fall 2020 CV NA.pdf)
+[2024 CV](Tjahjadi_CV_2024_v2.pdf)
 
 ## Education
 
