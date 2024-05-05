@@ -12,7 +12,7 @@ Outside of the lab, I am a strong proponent of science education to help inform 
 
 - Organizing departmental outreach events with local high school students through Yale Pathways. 
 - Acting as a speaker and current director for Yale Science Communication, a Graduate Student Organization.
-- Acting as a visiting reseacher for the *Scientist in In* program at the National Museum of Natural History (2021)
+- Acting as a visiting reseacher for the *Scientist in In* program at the National Museum of Natural History (2020)
 - Cohosting [Evolution's Grad Girls](https://www.youtube.com/channel/UCCBhCOoJCOEm0ahysB7Bxyw), a short webseries on Youtube answering Reddit questions related to evolutionary anthropology
 
 ## CV
