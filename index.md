@@ -1,12 +1,12 @@
-## Introduction
+## *Introduction*
 
-I am a 4th year PhD candidate in Anthropology at Yale University. After receiving a BA in Archaeology and Biology from Boston University, I completed a MS in Human Paleobiology at George Washington University and am currently interested in researching human adaptation and population histories through genetics and genomics methods. 
+I am a 4th year PhD candidate in Anthropology in the [Tucci Lab](https://www.tuccilab.org/) at Yale University. After receiving a BA in Archaeology and Biology from Boston University, I completed a MS in Human Paleobiology at George Washington University and am currently interested in researching human adaptation and population histories through genetics and genomics methods. 
 
-## Research Interests
+## *Research Interests*
 
 My research interests focus on the evolution of genes involved in metabolism and the evolution of diet within the human lineage. Currently, my PhD research utilizes population genetics methods to understand adaptive evolution in fat metabolism-related genes, such as the *FADS* gene cluster and the ecological factors and demographic history that have contributed to patterns of genetic variation within modern-day populations in Southeast Asia and Oceania. I am also working on a project utilizing runs of homozygosity as a way to understand demographic history and potential regions under selection in Oceanic populations. My previous research during my Masters examined patterns of functional variation in intestinal starch-digesting enzymes in humans and non-human primates to determine whether humans exhibit accelerated rates of evolution. 
 
-## Outreach
+## *Outreach*
 
 Outside of the lab, I am a strong proponent of science education to help inform understanding of human evolutionary concepts and advancements in human evolutionary genetics for the general public. To this end, I have been involved in several forms of outreach including:
 
@@ -19,17 +19,17 @@ Outside of the lab, I am a strong proponent of science education to help inform 
 
 
 
-## CV
+## *CV*
 
 [CV](Tjahjadi_CV_2025_v1.pdf)
 
-## Education
+## *Education*
 
 - PhD Candidate, current. Yale University, New Haven, CT.
 - Master of Science, 2021. George Washington University, Washington, DC. 
 - Bachelor of Arts, 2018. Boston University, Boston, MA.
 
-## Contact
+## *Contact*
 
 audrey.tjahjadi[@]yale.edu
 
